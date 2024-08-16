@@ -1,2 +1,2 @@
 ﻿# web-screping
-## Studying basic concepts of screping
+ Studying basic concepts of screping
